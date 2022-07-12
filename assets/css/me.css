@@ -1,0 +1,13 @@
+@media (max-width: 576px) {
+ h3.judul {
+  font-size: 20px !important;
+ }
+
+ .breadcrumbs h2 {
+  font-size: 24px !important;
+ }
+
+ #profiel p {
+  font-size: 14px !important;
+ }
+}
